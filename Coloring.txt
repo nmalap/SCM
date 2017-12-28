@@ -1,0 +1,8 @@
+A collaboration platform at the core of the Visual Studio solution for application lifecycle management.
+Provides fundamental services such as version control, work item and bug tracking, build automation, and a data warehouse.
+[batman]
+[lego]
+[superman]
+[hulk]
+{antartika}
+{nusatenggara tengah barat}
