@@ -7,3 +7,5 @@ Provides fundamental services such as version control, work item and bug trackin
 {antartika}
 {nusatenggara tengah barat}
 Add Coloring 1 | 28-12-2017| add batman
+Add Coloring 2 | 28-12-2017| add superman
+Add Coloring 3 | 28-12-2017| add hulk
