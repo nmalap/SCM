@@ -1,3 +1,7 @@
 add one
 combo
 pikup
+one
+two
+three
+forur
